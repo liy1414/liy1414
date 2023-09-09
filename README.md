@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![liy1414's github stats](https://github-readme-stats.vercel.app/api?username=liy1414&theme=react&count_private=true&show_icons=true)
+![liy1414's github stats](https://github-readme-stats.vercel.app/api?username=liy1414&count_private=true&show_icons=true)
 
 ## Skills
 <img width="22px" title="Javascript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <img width="22px" title="Nginx" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg">
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
 <img width="22px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+<img width="22px" title="WordPress" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg">
