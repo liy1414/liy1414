@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 <img width="22px" title="Nginx" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg">
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
 <img width="22px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+
+[![Website][badge_website]][website_link]
+[badge_website]: https://img.shields.io/static/v1?label=%F0%9F%8C%90&message=zvizvi.xyz&color=green&style=flat
+[website_link]: https://liy.ovh
