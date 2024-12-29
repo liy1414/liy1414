@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 <img width="22px" title="WordPress" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg">
 <img width="22px" title="Vuetify" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuetify.svg">
 <img width="22px" title="Figma" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg">
+<img width="22px" title="Figma" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/refs/heads/main/icons/docker.svg">
+<img width="22px" title="Docker" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg">
+<img width="22px" title="NPM" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/refs/heads/main/icons/npm.svg">
+<img width="22px" title="PostgreSql" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/refs/heads/main/icons/postgresql.svg">
+<img width="22px" title="Postmen" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/refs/heads/main/icons/postman.svg">
